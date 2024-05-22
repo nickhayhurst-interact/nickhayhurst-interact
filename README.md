@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nick Hayhurst
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning C, C++ and Python
+- 📫 How to reach me nick.hayhurst@interactdc.com
+- ⚡ Fun fact: I am a 2nd Dan Black Belt in Karate
