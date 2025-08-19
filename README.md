@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nick Hayhurst
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning C, C++ and Python
-- 📫 How to reach me nick.hayhurst@interactdc.com
-- ⚡ Fun fact: I am a 2nd Dan Black Belt in Karate
+- 👋 Hi, I’m Nick Hayhurst from Interact DC and Cedar Enterprise.
+- 👀 I’m a Senior Principle Software Engineer.
+- 🌱 C, C++, Python and PHP are my preferred languages.
+- 📫 How to reach me nick.hayhurst@interactdc.com.
+- ⚡ Fun fact: I am a 2nd Dan Black Belt in Karate.
